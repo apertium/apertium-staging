@@ -1,0 +1,32 @@
+[submodule "apertium-tet-por"]
+	path = apertium-tet-por
+	url = git@github.com:apertium/apertium-tet-por.git
+	branch = master
+[submodule "apertium-mlt-heb"]
+	path = apertium-mlt-heb
+	url = git@github.com:apertium/apertium-mlt-heb.git
+	branch = master
+[submodule "apertium-cat-glg"]
+	path = apertium-cat-glg
+	url = git@github.com:apertium/apertium-cat-glg.git
+	branch = master
+[submodule "apertium-fao-nor"]
+	path = apertium-fao-nor
+	url = git@github.com:apertium/apertium-fao-nor.git
+	branch = master
+[submodule "apertium-fra-por"]
+	path = apertium-fra-por
+	url = git@github.com:apertium/apertium-fra-por.git
+	branch = master
+[submodule "apertium-hbs_HR-hbs_SR"]
+	path = apertium-hbs_HR-hbs_SR
+	url = git@github.com:apertium/apertium-hbs_HR-hbs_SR.git
+	branch = master
+[submodule "apertium-scn-spa"]
+	path = apertium-scn-spa
+	url = git@github.com:apertium/apertium-scn-spa.git
+	branch = master
+[submodule "apertium-pol-ces"]
+	path = apertium-pol-ces
+	url = git@github.com:apertium/apertium-pol-ces.git
+	branch = master
